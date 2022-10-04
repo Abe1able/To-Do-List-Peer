@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List For Review
 
 > In this project, I set up a to-do list website where the user of the application is able to add items to the list,
   mark items as complete or incomplete, and also clear all completed items. I use webpack for package management and modern day javascript.
